@@ -1,0 +1,6 @@
+{
+  "name": "Nala Bheema Restaurant",
+  "description": "Premium authentic culinary restaurant celebrating rich heritage flavors, royal feasts, signature biryanis, and traditional delicacies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
